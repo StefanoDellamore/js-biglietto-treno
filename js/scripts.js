@@ -14,3 +14,9 @@ const ageInNumber = parseInt (age);
 
 console.log ('anni:', age, typeof age);
 console.log ('ageInNumber', ageInNumber, typeof age);
+
+//prezzo biglietto base
+const price = (kmInNumber * 0.21);
+console.log ('price', price, typeof price);
+
+let finalText = 'il prezzo del biglietto è $:';
